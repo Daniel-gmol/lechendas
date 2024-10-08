@@ -1,2 +1,3 @@
-# lechendas
-Integración de seguridad informática en redes y sistemas de software (Gpo 503)
+# This Repository is now deprecated: for the updated one access this link:
+
+https://github.com/marcoolucio17/LechendasApp/tree/main
